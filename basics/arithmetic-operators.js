@@ -11,4 +11,9 @@
 
 
 '20' - '10';   //  ans : 10 (javascript convert string to number only for  -(sub)  operator)
+'20' / '10';   //  ans : 10 (javascript convert string to number only for  /(div)  operator)
+'20' * '10';   //  ans : 10 (javascript convert string to number only for  *(muli)  operator)
+
+
+
 '20' + '10';  //  ans : 2010  (javascript consider values has string and it will combine the values)
