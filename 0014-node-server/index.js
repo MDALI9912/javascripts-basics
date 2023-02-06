@@ -1,15 +1,5 @@
-// HTTP Server Module
-// NodeJS InBuild Module (http)
-
-
 
 const http = require("http");
-
-// const server = http.createServer(function (request, respones) {
-// respones.writeHead(200);
-// respones.end("data server from node server")
-// });
-
 
 
 
