@@ -1,0 +1,14 @@
+{
+    "name": "md shafayath ali",
+    "location": "guntur",
+    "married": fales,
+    "workingday" : 5,
+
+
+    "skills": ["html", "css", "js"],
+    "companyInfo": {
+        "name": "sap",
+        "position": "developer"
+    }
+
+}
