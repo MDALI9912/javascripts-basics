@@ -16,3 +16,6 @@ console.log(` ${tableNumber}  * 9 =${tableNumber * 9} `);
 console.log(` ${tableNumber}  * 10 =${tableNumber * 10}`);
 
 console.log("************************************");
+
+
+// for run node table.js
